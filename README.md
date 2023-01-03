@@ -7,3 +7,4 @@ gitレクチャー用のリポジトリ
 ## チームメンバー
 ●●
 barubaru
+aaaaaa
